@@ -1,5 +1,5 @@
 #PBS -N parallel_OpenFOAM
-#PBS -l nodes=2:ppn=8
+#PBS -l nodes=2:ppn=12
 #PBS -l walltime=6:00:00
 #PBS -j oe
 #PBS -S /bin/bash 

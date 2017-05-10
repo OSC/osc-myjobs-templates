@@ -3,7 +3,7 @@
 #PBS -l nodes=1:ppn=28
 #PBS -j oe
 
-#  A Basic MATLAB Job for the OSC Owens Cluster
+#  A Basic Parallel MATLAB Job for the OSC Owens Cluster
 #  https://www.osc.edu/supercomputing/software/matlab
 
 module load matlab

@@ -7,6 +7,8 @@
 
 #  A Basic COMSOL Parallel Job for the OSC Oakley Cluster
 #  https://www.osc.edu/supercomputing/software/comsol
+#    Note: Be sure to update the input_cluster.mph file
+#          to the name of the appropriate .mph file.
 
 cd ${PBS_O_WORKDIR}
 module load comsol
